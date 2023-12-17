@@ -1,0 +1,142 @@
+.container{
+    background-color:black;
+    width:100%;
+}
+.main_body{
+    width:100%;
+}
+.nav_item{
+    width:100%;
+    height:100px;
+    padding:30px;
+}
+.name{
+    font-weight: bold;
+}
+.navdoc:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+.ftco-about .img-about {
+    width: 100%;
+    z-index: 0;
+    position: relative;
+ }
+.ftco-about .img-about .img {
+      display: block;
+      width: 100%;
+      position: relative;
+      z-index: 1; 
+}
+  
+.ftco-about ul.about-info {
+    display: inline-block;
+    width: 100%; 
+}
+.ftco-about ul.about-info li {
+      list-style: none;
+      margin-bottom: 10px; 
+}
+.ftco-about ul.about-info li span {
+        width: calc(100% - 130px); 
+}
+.ftco-about ul.about-info li span:first-child {
+          font-weight: 600;
+          color: #fff;
+          width: 130px; 
+}
+  
+.ftco-about .counter-wrap .text p {
+    font-size: 20px; 
+}
+.ftco-about .counter-wrap .text p span {
+      font-weight: 400;
+      color: #fff; 
+}
+.ftco-about .counter-wrap .text p span.number {
+      font-weight: 600;
+      color: #ffbd39; 
+}
+
+.esume{
+    width: 100%;
+    height:500px;
+    margin: 90px 0 0 30px;
+    color:#cec7c7;
+}
+.card_style{
+    width:550px;
+    height:300px;
+    background-color:#1d1d1d ;
+    border-radius: 20px;
+    padding: 20px;
+    color:#cec7c7;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.card_style1{
+    margin: -300px 0 0 80px;
+}
+.card_style2{
+    margin: -300px 0 0 680px;
+}
+.card_style3{
+    margin: 50px 0 0 80px;
+}
+.card_style4{
+    margin: -300px 0 0 680px;
+}
+.card_style5{
+    margin: 50px 0 0 360px;
+}
+.card_1{
+    width:250px;
+    height:200px;
+    background-color:#424040;
+    color:rgb(250, 223, 23);
+    padding:20px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    float:left;
+    margin-left: 35px;
+}
+.card_1:hover{
+    background-color:#ffbd39;
+    color: #424040;
+}
+.btn_margin{
+    margin:10px 0 0 560px;
+}
+.image_class{
+    width:600px;
+    height:300px;
+    float:left;
+    margin:20px 0 20px 0;
+}
+.background_{
+    
+    height:400px;
+    background-image: url("bg_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    float: none;
+    margin:400px 0 0 0;
+    padding:100px;
+}
+.contact_{
+    width:100px;
+    height:100px;
+    border-radius: 180px;
+    background-color: #2d2b2b;
+    padding:25px;
+    margin: 0 150px 0 150px;
+}
+.ContactImage{
+    height:50px;
+    width:50px;
+    border-radius:180px;
+}
+
+
+
